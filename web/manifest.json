@@ -1,0 +1,12 @@
+{
+  "name": "Gato Meme",
+  "short_name": "Gato Meme",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1c1b1f",
+  "theme_color": "#ff5722",
+  "description": "Generador de memes de gatos",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
